@@ -1,5 +1,5 @@
 # TDPS-Arrow-Recognition
-Recognition on mobile or embedded devices
+Recognition on mobile or embedded devices.
 ## Installation
 - CUDA/Python
 ## Quick Start
